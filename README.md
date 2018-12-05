@@ -3,6 +3,45 @@ Liste des différents projets réalisés à 42.
 
 Niveau : 17,70 sur 21
 
+###  DSLR (en cours)
+ 
+```
+Date :  
+Nombre d'étudiant : 1
+Descriptif :  
+Sujet proposé par l'association 42AI. Découvrez la Data Science à travers ce projet dans la reconstitution du Choixpeau Magique de Poudlard ! Attention, ceci n'est pas un sujet sur les appareils photos.
+
+> Objectives
+Data Science 
+Statistics 
+Visualiation 
+Logistic Regression 
+Expecto Patronum ! 
+> Skills
+Algorithms & AI 
+DB & Data 
+
+```
+
+###  RUBIK (en cours)
+ 
+```
+Date : 
+Nombre d'étudiant : 1
+Descriptif :  
+Projet d'algorithmie non-trivial, ce projet a pour but de vous faire réaliser un résolveur de Rubik's Cube. Vous êtes libres dans le choix de langage pour réaliser le sujet.
+
+> Objectives
+Algorithmie 
+Représentation dans l'espace 
+Théorie des groupes 
+> Skills
+Group & interpersonal 
+Rigor 
+Algorithms & AI 
+
+```
+
 ###  Outil pédagogique à destination des écoles maternelles et primaires
  
 ```
