@@ -1,8 +1,7 @@
 # 42Projects
 Liste des différents projets réalisés à 42.
 
-Niveau : 17,70 sur 21
-24 projets validés
+Niveau : 17,70 sur 21 => 24 projets validés
 
 ###  DSLR (en cours)
  
