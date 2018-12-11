@@ -1,13 +1,31 @@
 # 42Projects
 Liste des différents projets réalisés à 42.
 
-Niveau : 17,70 sur 21
-24 projets validés
+Niveau : 17,83 sur 21
+25 projets validés
 
-###  DSLR (en cours)
- 
+###  RUBIK (en cours)
 ```
-Date :  
+Date : 
+Nombre d'étudiant : 1
+Descriptif :  
+Projet d'algorithmie non-trivial, ce projet a pour but de vous faire réaliser un résolveur de Rubik's Cube. Vous êtes libres dans le choix de langage pour réaliser le sujet.
+
+> Objectives
+Algorithmie 
+Représentation dans l'espace 
+Théorie des groupes 
+> Skills
+Group & interpersonal 
+Rigor 
+Algorithms & AI 
+
+
+```
+
+###  DSLR
+```
+Date :  11/12/2018
 Nombre d'étudiant : 1
 Descriptif :  
 Sujet proposé par l'association 42AI. Découvrez la Data Science à travers ce projet dans la reconstitution du Choixpeau Magique de Poudlard ! Attention, ceci n'est pas un sujet sur les appareils photos.
@@ -24,27 +42,8 @@ DB & Data
 
 ```
 
-###  RUBIK (en cours)
- 
-```
-Date : 
-Nombre d'étudiant : 1
-Descriptif :  
-Projet d'algorithmie non-trivial, ce projet a pour but de vous faire réaliser un résolveur de Rubik's Cube. Vous êtes libres dans le choix de langage pour réaliser le sujet.
-
-> Objectives
-Algorithmie 
-Représentation dans l'espace 
-Théorie des groupes 
-> Skills
-Group & interpersonal 
-Rigor 
-Algorithms & AI 
-
-```
 
 ###  Outil pédagogique à destination des écoles maternelles et primaires
- 
 ```
 Date :  27/11/2018
 Nombre d'étudiant : 1
@@ -54,7 +53,6 @@ Validation d'un projet hors cursus
 ```
 
 ###  Part-time
- 
 ```
 Date :  16/11/2018
 Nombre d'étudiant : 1
