@@ -1,8 +1,7 @@
 # 42Projects
 Liste des différents projets réalisés à 42.
 
-Niveau : 18,04 sur 21
-26 projets validés
+Niveau : 18,04 sur 21 => 26 projets validés
 
 ###  MultiLayer Perception 
 ```
