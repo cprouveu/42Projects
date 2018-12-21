@@ -1,13 +1,32 @@
 # 42Projects
 Liste des différents projets réalisés à 42.
 
-Niveau : 17,83 sur 21
-25 projets validés
+Niveau : 18,04 sur 21
+26 projets validés
 
-###  RUBIK (en cours)
+###  MultiLayer Perception 
 ```
-Date : 
-Nombre d'étudiant : 1
+Date : en cours
+Nombre d'étudiants : 1
+Descriptif :  
+Sujet proposé par l'association 42AI. Ce projet est une introduction aux réseaux de neurones artificiels grâce à l'implémentation d'un multilayer perceptron.
+
+> Objectives
+Data Science 
+AI 
+Visualiation 
+Neural Networks 
+> Skills
+Rigor 
+Algorithms & AI 
+DB & Data 
+
+```
+
+###  RUBIK
+```
+Date : 21/12/2018
+Nombre d'étudiants : 2
 Descriptif :  
 Projet d'algorithmie non-trivial, ce projet a pour but de vous faire réaliser un résolveur de Rubik's Cube. Vous êtes libres dans le choix de langage pour réaliser le sujet.
 
@@ -74,7 +93,7 @@ Company experience
 ###  Darkly 
 ```
 Date :  27/10/2018
-Nombre d'étudiant : 2
+Nombre d'étudiants : 2
 Descriptif :  
 Projet introductif à la sécurité en informatique dans le domaine spécifique du web, ce projet va vous faire disséquer un site web vulnérable. Ce faisant, vous allez développer votre propre façon de penser "sécurité" dans une application web et prendre conscience des problèmes liés à de simples "erreurs" de développement, autant d'un point de vue programmation que d'un point de vue conception.
 
@@ -237,7 +256,7 @@ Algorithms & AI
 ###  Boot2Root 
 ```
 Date :  05/02/2018
-Nombre d'étudiant : 4
+Nombre d'étudiants : 4
 Descriptif :  
 Challenge Securité : Cherchez en groupe les différents moyens de passer root sur l'ISO fournie en ressources.
 
@@ -256,7 +275,7 @@ Adaptation & creativity
 ###  Expert System
 ```
 Date :  28/01/2018
-Nombre d'étudiant : 2
+Nombre d'étudiants : 2
 Descriptif : 
 Ce projet vous demande de créer, dans le langage de votre choix, un système expert en calcul des propositions, autrement dit un programme capable de raisonner sur un ensemble de règles et de faits initiaux afin de déduire certains autres faits.
 
@@ -273,7 +292,7 @@ Group & interpersonal
 ###  N-puzzle
 ```
 Date :  20/01/2018
-Nombre d'étudiant : 2
+Nombre d'étudiants : 2
 Descriptif : 
 Il s'agit ici de réaliser, dans le langage de votre choix, un programme capable de résoudre des Taquins de tailles variées, de façon aussi optimale que possible.
 
@@ -308,7 +327,7 @@ Company experience
 ###  42sh
 ```
 Date :  25/07/2017
-Nombre d'étudiant : 4
+Nombre d'étudiants : 4
 Descriptif : 
 Ce projet consiste à créer de toutes pièces un shell complet, en reprenant le travail effectué sur votre 21sh. Un jeu minimum de fonctionnalités vous sont demandées, à partir duquel vous allez constuire votre propre shell abouti - en allant potentiellement jusqu'au job control et au shell script. Ce projet vous permet donc de voir ou revoir une très large palette des fonctionnalités UNIX (et POSIX) standard.
 
@@ -421,7 +440,7 @@ Algorithms & AI
 ### Fillit
 ```
 Date :  16/11/2016
-Nombre d'étudiant : 2
+Nombre d'étudiants : 2
 Descriptif : 
 Fillit est un projet vous permettant de découvrir et/ou de vous familiariser avec une problématique récurrente en programmation : la recherche d'une solution optimale parmi un très grand nombre de possibilités, dans un délai raisonnable. Dans le cas de ce projet, il s'agira d'agencer des Tetriminos entre eux et de déterminer le plus petit carré possible pouvant les accueillir.
 
