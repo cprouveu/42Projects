@@ -3,7 +3,7 @@ Liste des différents projets réalisés à 42.
 
 Niveau : 18,04 sur 21 => 26 projets validés
 
-###  MultiLayer Perception 
+###  MultiLayer Perceptron 
 ```
 Date : en cours
 Nombre d'étudiants : 1
