@@ -1,7 +1,7 @@
 # 42Projects
 Liste des différents projets réalisés à 42.
 
-Niveau : 18,04 sur 21 => 26 projets validés
+Niveau : 18,39 sur 21 => 27 projets validés
 
 ###  MultiLayer Perceptron 
 ```
@@ -22,6 +22,25 @@ DB & Data
 
 ```
 
+###  Hypertube
+```
+Date : 05/01/2019
+Nombre d'étudiants : 3
+Dernier projet de sa série, le projet Hypertube vous invite à découvrir une catégorie d'outil extrêmement puissante : les frameworks MVC. Vous apprendrez à manipuler un MVC, dans le langage de votre choix, pour réaliser un site de streaming de video téléchargées via le protocole BitTorrent.
+
+> Objectives
+Framework MVC 
+Omniauth 
+Background jobs 
+Internationalisation 
+> Skills
+Web 
+DB & Data 
+Group & interpersonal 
+
+```
+
+
 ###  RUBIK
 ```
 Date : 21/12/2018
@@ -37,7 +56,6 @@ Théorie des groupes
 Group & interpersonal 
 Rigor 
 Algorithms & AI 
-
 
 ```
 
