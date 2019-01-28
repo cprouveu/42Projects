@@ -6,7 +6,7 @@ Niveau : 18,58 sur 21 => 28 projets validés
 ###  Piscine python django
 ```
 Date : 27/01/2019
-Nombre d'étudiants : 2
+Nombre d'étudiants : 1
 Description
 Prenez en main la conception d'un backend WEB brillant par sa qualité et sa performance avec le framework Django.
 
