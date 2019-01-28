@@ -1,23 +1,23 @@
 # 42Projects
 Liste des différents projets réalisés à 42.
 
-Niveau : 18,39 sur 21 => 27 projets validés
+Niveau : 18,58 sur 21 => 28 projets validés
 
-###  MultiLayer Perceptron 
+###  Piscine python django
 ```
-Date : en cours
-Nombre d'étudiants : 1
-Descriptif :  
-Sujet proposé par l'association 42AI. Ce projet est une introduction aux réseaux de neurones artificiels grâce à l'implémentation d'un multilayer perceptron.
+Date : 27/01/2019
+Nombre d'étudiants : 2
+Description
+Prenez en main la conception d'un backend WEB brillant par sa qualité et sa performance avec le framework Django.
 
 > Objectives
-Data Science 
-AI 
-Visualiation 
-Neural Networks 
+Python 
+Django 
+Backend web 
 > Skills
-Rigor 
-Algorithms & AI 
+Object-oriented programming 
+Web 
+Technology integration 
 DB & Data 
 
 ```
