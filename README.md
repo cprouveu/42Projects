@@ -1,7 +1,67 @@
 # 42Projects
 Liste des différents projets réalisés à 42.
 
-Niveau : 18,58 sur 21 => 28 projets validés
+Niveau : 21 sur 21 => 31 projets validés
+
+### Projet Personnel
+```
+Outil pédagogique à destination des écoles maternelles et primaires.
+```
+
+###  Open Project 2
+```
+Date : 30/07/2019
+Nombre d'étudiants : 4
+Description
+Vous avez déjà réalisé un projet libre de 6 mois, vous connaissez donc le principe :
+le projet libre, c’est l’occasion de réaliser, en temps imparti, un travail en groupe sur un
+sujet qui vous tient à coeur. Ce deuxième projet vous permet de vous attaquer à un projet
+libre plus long, pour monter un projet de plus grande envergure.
+
+Comme pour le premier projet libre, cette deuxième mouture va se dérouler en deux
+étapes :
+• La première est le choix du sujet. C’est l’objet de ce présent document attaché au
+présent projet. En suivant les directives données ici, vous allez élaborer un groupe
+et un sujet de projet libre. L’ensemble sera validé par la communauté. Cette étape
+doit entre autres définir une liste exhaustive d’éléments factuels et fonctionnels à
+vérifier lors de la soutenance finale en fin de seconde étape de ce projet libre.
+
+```
+
+###  Open Project 1
+```
+Date : 21/07/2019
+Nombre d'étudiants : 4
+Description
+C’est un projet dont vous allez vous-même choisir le sujet. Votre objectif va consister à
+former des groupes de travail autour d’un sujet commun qui vous emballe, et qu’il vous
+faudra réaliser dans un temps imparti.
+
+Votre projet libre va se dérouler en deux étapes :
+• Une première étape est le choix du sujet. C’est l’objet de ce présent document
+attaché au présent projet. En suivant les directives données ici, vous allez élaborer
+un groupe et un sujet de projet libre. L’ensemble sera validé par la communauté.
+Cette étape doit entre autres définir une liste exhaustive d’éléments factuels et
+fonctionnels à vérifier lors de la soutenance finale en fin de seconde étape de ce
+projet libre.
+• Une fois ce premier projet réussi, correpondant donc à votre sujet validé, il vous
+sera alors possible de vous inscrire au second projet, qui vous laissera alors 5 mois
+de réalisation concrète du projet selon les objectifs que vous vous êtes fixés.
+
+```
+
+###  Final Internship
+```
+Date :  13/07/2019
+Nombre d'étudiant : 1
+Descriptif : 
+Votre cursus 42 se clot sur une dernière période d'insertion professionnelle : le stage final. Ce stage est l'accomplissement de votre parcours, il vous permettra d'aller démontrer votre expertise en entreprise, et vous servira de tremplin pour lancer votre carrière.
+
+> Objectives
+> Skills
+Group & interpersonal 
+Company experience 
+```
 
 ###  Piscine python django
 ```
