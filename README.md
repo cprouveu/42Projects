@@ -3,10 +3,6 @@ Liste des différents projets réalisés à 42.
 
 Niveau : 21 sur 21 => 31 projets validés
 
-### Projet Personnel
-```
-Outil pédagogique à destination des écoles maternelles et primaires.
-```
 
 ###  Open Project 2
 ```
